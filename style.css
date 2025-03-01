@@ -92,6 +92,12 @@ nav li a
     border-radius: 7px;
     padding: 3em;
     background-color: #fff;
+    align-items: center;
+}
+
+.conteudo img
+{
+    width: 300px;
 }
 
 .conteudo p
